@@ -123,3 +123,25 @@ Lenguaje R:R es un lenguaje de programación interactivo, orientado a objetos y 
 Lenguaje python:Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
 lenjuaje JavaScript:es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas,
+
+
+
+------------------UNIDAD3 3-----------------------
+          +Estructura no lineales+
+RECURSIVIDAD:En matemáticas se da el nombre de recursión a la técnica consistente en definir una función en términos de sí misma. Puesto que en C una función puede llamar a otras funciones, se permite que una función también pueda llamarse a sí misma.
+
+ARBOLES:En estructura de datos, los árboles consisten en una estructura no lineal que se utiliza para representar datos con una relación jerárquica en la que cada elemento tiene un único antecesor y puede tener varios sucesores.
+
+GRAFOS:Otro tipo de no lineal de estructura de datos en programación, son los grafos. Se trata de una estructura matemática formada por un conjunto de puntos —una estructura de datos— y un conjunto de líneas, cada una de las cuales une un punto a otro.
+
+
+
+-------------------UNIDAD 4--------------------------
+        +Metodos de ordenamiento y busqueda+
+METODOS DE ORDENAMIENTO:Es la operación de arreglar los registros de una tabla en algún orden secuencial de acuerdo a un criterio de ordenamiento. El ordenamiento se efectúa con base en el valor de algún campo en un registro. El propósito principal de un ordenamiento es el de facilitar las búsquedas de los miembros del conjunto ordenado.
+
+METODOS DE BUSQUEDA:La búsqueda es una operación de vital importancia cuando se manipulan grandes
+conjuntos de datos donde localizar un elemento no es tarea fácil.Para buscar un dato en un vector existen dos métodos: búsqueda secuencial o lineal y búsqueda binaria. El primero es más fácil de implementar pero puede tomar más tiempo, el
+segundo es más eficiente, pero requiere que el vector esté ordenado.
+
+RECUPERACION DE DATOS:La recuperación de información es un proceso de comunicación. Es un medio por el que los usuarios de un sistema o servicio de información pueden encontrar los documentos, registros, imágenes gráficas, o registros de sonido que satisfagan sus necesidades o intereses.
