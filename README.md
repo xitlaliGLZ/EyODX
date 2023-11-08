@@ -145,3 +145,21 @@ conjuntos de datos donde localizar un elemento no es tarea fácil.Para buscar un
 segundo es más eficiente, pero requiere que el vector esté ordenado.
 
 RECUPERACION DE DATOS:La recuperación de información es un proceso de comunicación. Es un medio por el que los usuarios de un sistema o servicio de información pueden encontrar los documentos, registros, imágenes gráficas, o registros de sonido que satisfagan sus necesidades o intereses.
+
+*********************T3.2***********************
+
+COMPONENTES DE UN DIAGRAMA DE FLUJO
+
+-Procesos o actividades. Representados como rectángulos, se refieren a una acción en un proceso de negocios. Son, posiblemente, los elementos más importantes de un diagrama de procesos, los que aparecen siempre, y por eso deben describirse de forma clara y concisa. Deben ser descritos con una frase única de verbo y sustantivo. Por ejemplo: “Redactar un nuevo informe para presentar a los accionistas del grupo”.
+
+-Subprocesos. Estos están representados como un rectángulo con líneas dobles en cada lado. Son partes de procesos padre; así, normalmente forman parte de otros más complejos y sirven para asignar tareas más simples al diagrama de flujo.
+Nodos de decisión. Están representados mediante un diamante y son nodos en los que, dependiendo de la respuesta, el árbol se dirige hacia un camino u otro. Generalmente, responden a la decisión de “sí” o “no”.
+
+-Conectores. Gráficamente, son pequeños círculos o cuadros conectores que se etiquetan utilizando letras. Aseguran que todos los procesos están conectados de forma lógica y correcta en varias páginas.
+Líneas de flecha. Su función es mantener la coherencia y claridad en un diagrama de procesos. Se dibujan hacia una u otra dirección, normalmente representando el camino por el que fluirá el diagrama.
+
+-Terminadores. Están representados por un rectángulo con esquinas curvas. Aparecen al inicio y al final de un diagrama de flujo, e indican la finalización de un diagrama.
+
+<<<<<<<<<<<<<PSInt>>>>>>>>>>>>>
+
+PSeInt es la abreviatura de los estados de computación de PSeudocódigo Intérprete, una herramienta educativa creada en Argentina, utilizada principalmente por estudiantes para aprender los fundamentos de la programación y el desarrollo de la lógica.
